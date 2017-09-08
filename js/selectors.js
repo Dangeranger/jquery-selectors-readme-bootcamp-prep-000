@@ -14,3 +14,7 @@ function ninjaBabySelector() {
 function functionName() {
   $('.pics')
 }
+
+function firstListItem() {
+
+}
